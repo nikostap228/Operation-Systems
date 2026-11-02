@@ -1,6 +1,8 @@
 @echo off
 rem git pull
 
+if exist build rmdir /s /q build
+
 if not exist build mkdir build
 cd build
 cmake ..
