@@ -1,3 +1,0 @@
-/home/nikita/shared_project/build/CMakeFiles/hello_app.dir
-/home/nikita/shared_project/build/CMakeFiles/edit_cache.dir
-/home/nikita/shared_project/build/CMakeFiles/rebuild_cache.dir
